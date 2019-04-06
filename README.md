@@ -1,5 +1,5 @@
 # dl_imageclassifier
-Deep Learning Coursework for Udacity Machine Learning Engineer Nanodegree
+Dog Breed Classifier - Deep Learning Coursework for Udacity Machine Learning Engineer Nanodegree
 
 [//]: # (Image References)
 
